@@ -13,6 +13,6 @@ switch (true) {
         console.log("Buzz");
         break;
     default:
-        console.log(number);
+        console.log('wrong');
 }
 
